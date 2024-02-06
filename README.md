@@ -33,12 +33,18 @@ The basic knowledges can be found in this repository.
 ### implementation steps
 
 1. 2.7 ~ x.x: As the board is not determined yet, we are going to use the RustSBI-qemu's code as our development reference material.
+
    1.0. Learn Rust language, acquire basic RISC-V knowledge, and study the *qemu code*.
+
    1.1. Attempt to implement the **enhanced functions** in RustSBI-qemu.
+   
 2. x.x ~ x.x: Based on the selected board, we will commence the adaptation of RustSBI to the specific development board model. (Refer to the appendix for boards with existing adaptations.)
+
    2.1. RustSBI can be used in the form of a library. Typically, RustSBI's implementation is based on the implementation of the **embedded-hal**. (the basic code implementation support)
+
    2.2. runtime：using riscv-rt or others.
-4. x.x ~ x.x: Complete the remaining functionalities, including the bootloader program and enhancing SBI capabilities.
+   
+3. x.x ~ x.x: Complete the remaining functionalities, including the bootloader program and enhancing SBI capabilities.
 
 ### Appendix
 

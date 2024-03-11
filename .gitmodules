@@ -1,0 +1,3 @@
+[submodule "rustsbi-d1"]
+	path = rustsbi-d1
+	url = https://github.com/wyywwi/rustsbi-d1.git

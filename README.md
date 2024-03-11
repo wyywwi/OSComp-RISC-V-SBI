@@ -1,12 +1,12 @@
 # OSComp-RISC-V-SBI
 
-OS Competition proj 1: an enhanced RISC-V SBI, by HUST RIRAM (Rust Implemented RISC-V Abstract Machine) team.
+OS Competition proj 1: an enhanced RISC-V SBI, by HUST RRAM (Rust implemented RISC-V Abstract Machine) team.
 
 ## Basic Plan
 
 > Make RISC-V Better!
 > 
-> *Donald Trump*
+> *Donald Luo*
 
 competition challenge: [proj1-rustsbi](https://github.com/oscomp/proj1-rustsbi)
 
